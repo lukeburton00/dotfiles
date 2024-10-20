@@ -1,0 +1,15 @@
+[submodule "nvim-config"]
+	path = nvim-config
+	url = https://github.com/lukeburton00/nvim-config
+[submodule "wz-config"]
+	path = wz-config
+	url = https://github.com/lukeburton00/wz-config
+[submodule "ps-config"]
+	path = ps-config
+	url = https://github.com/lukeburton00/ps-config
+[submodule "glzr-config"]
+	path = glzr-config
+	url = https://github.com/lukeburton00/glzr-config
+[submodule "tmux-config"]
+	path = tmux-config
+	url = https://github.com/lukeburton00/tmux-config
